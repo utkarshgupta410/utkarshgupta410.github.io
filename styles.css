@@ -1,0 +1,25 @@
+.center {
+    text-align: center;
+}
+
+.padding {
+    padding-top: 10px;
+}
+
+.logo {
+    
+    font-family: Roboto;
+    color: lightseagreen;
+}
+
+.card-title {
+        color: maroon;
+        text-transform: uppercase;
+        font-weight: bold;
+        font-family: Tahoma;
+}
+
+.highlight {
+        font-weight: bold;
+        text-transform: uppercase;
+}
